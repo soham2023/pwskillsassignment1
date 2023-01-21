@@ -1,0 +1,14 @@
+1. What is HTML?
+-> HTML stands for hyper text markup language.HTML helps us to create webpage structure.
+
+2.What is CSS?
+-> CSS stands for cascading syle sheets.CSS helps us to desgin the webpage.
+
+3.Why did javascript and Ecmascript come to the picture?
+->Before JavaScript was developed, web pages were static and could not be
+changed by the user. If a web page needed to display dynamic content or
+respond to user input, the entire page would have to be reloaded from the server.
+This made the web a less interactive and responsive experience for users.
+
+4.History of javascript and Ecmascript?
+->JavaScript was invented by Brendan Eich in 1995. It was developed for Netscape 2, and became the ECMA-262 standard in 1997.Initially known as LiveScript, Netscape changed the name to JavaScript so they could position it as a companion for the Java language, a product of their partner, Sun Microsystems.Its earliest releases suffered from notable performance and security issues, but developers had no alternatives.

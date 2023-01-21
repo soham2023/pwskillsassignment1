@@ -1,0 +1,20 @@
+1.what is internet ? Explain in your own words.
+-> internet is a global network that connects billions of devices with each other and 
+to the world wude web.
+
+2.what is web browser?Explain in your own words.
+-> Web browser is a software that helps us to acess internet.When user want to see a web page
+web browser helps to load it on the device.
+
+3.what is browser engine?Explain in your own words.
+->A browser engine is a software component of every web browser. 
+The primary job of a browser engine is to transform HTML documents and other resources
+ of a web page into  visual representation on a user's device.
+
+4.what is static website? Explain in your own words.
+->Static website is a basic website.Which is easy to write.The codes are fixed for each
+ page so the information in the page does not change.
+
+5.what is dynamic  website? Explain in your own words.
+->Dynamic website is a collection of dynamic web pages whose content changes dynamically.
+Content is generated quickly and changes regularly.

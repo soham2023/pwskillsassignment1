@@ -1,0 +1,10 @@
+1.List all the tools you might use as a web developer?
+-> vs code
+   vs code extensions - HTML CSS support, javascript code snippets,live server, prettier
+
+2.What are some of the features of PW Skills Online Lab? Explain how they are useful.
+-> features of PW Skills Online Lab
+  i) it is a online cloud base lab 
+  ii) We can access it from anywhere.
+  iii) its a online lab so we did not to install it.
+  iv) It supports a large number of programming languages.

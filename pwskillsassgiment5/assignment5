@@ -1,0 +1,25 @@
+1.Why do we start learning a programming language with “Hello World!"
+-> Coders start programming with "Hello World!" because with little bit or no programming
+knowledge anyone can run this code. its also check that system is working correctly or not.
+
+2.what is the use of comments and how do you write comments in HTML?
+-> We use comments to give readable explanation of the code we have written. Its makes the code easier to understand
+ we can write a comment like this <!-- comment -->
+
+ 3.What are elements, tags and attributes and the diffrnce btween them.
+-> Tags - In HTML, tags are used to define the structure and layout of a webpage. They
+are the basic building blocks that are used to create elements on a page.
+example -  <p></p> this is paragraph tag .which help to create paragraph
+
+ Elements - Elements are the individual components of an HTML document, such as
+headings, paragraphs, and images. Each element is represented by a
+corresponding HTML tag.
+
+Attribute - Attributes are used to provide additional information about an element. They
+are added to the opening tag of an element and they always come in the
+form of name-value pairs.
+example - the src attribute is used to specify the source of an image
+
+4. Briefly explain what HTML entitis are.
+-> If we use the less than (<) or greater than (>) signs in your text, the browser might mix them with tags.Character entities are used to display reserved characters in HTML.
+we have to write like &lt; or &#60;
